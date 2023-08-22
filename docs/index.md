@@ -68,7 +68,7 @@ Figure 3: Example of handling exceptions (ValueError).
 ![PyCharm](https://github.com/lesping/lesping-IntroToProg-Python-Mod07/blob/main/docs/Captura%20de%20pantalla%202023-08-21%20a%20la(s)%2021.53.46.png "PyCharm") 
 Figure 4: My script running in PyCharm
 
-![Command Shell](https://github.com/lesping/lesping-IntroToProg-Python-Mod07/blob/main/docs/Captura%20de%20pantalla%202023-08-21%20a%20la(s)%2021.53.30.png "Command Shell") 
+![Command Shell](https://github.com/lesping/lesping-IntroToProg-Python-Mod07/blob/main/docs/Captura%20de%20pantalla%202023-08-21%20a%20la(s)%2021.53.59.png "Command Shell") 
 Figure 5: My script running from the command shell of my computer
 
 *Finally, I opened the plain text file BasicMathList.txt and it can be demonstrated that the code works by saving the information correctly (Figure 6).*  
