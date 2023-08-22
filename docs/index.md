@@ -65,7 +65,7 @@ Figure 3: Example of handling exceptions (ValueError).
 
 *Then I validated the script in PyCharm and the Command Terminal. I ran the program without problems (Figure 4 and 5).*  
 
-![PyCharm](https://github.com/lesping/lesping-IntroToProg-Python-Mod07/blob/main/docs/Captura%20de%20pantalla%202023-08-21%20a%20la(s)%2021.53.30.png "PyCharm") 
+![PyCharm](https://github.com/lesping/lesping-IntroToProg-Python-Mod07/blob/main/docs/Captura%20de%20pantalla%202023-08-21%20a%20la(s)%2021.53.46.png "PyCharm") 
 Figure 4: My script running in PyCharm
 
 ![Command Shell](https://github.com/lesping/lesping-IntroToProg-Python-Mod07/blob/main/docs/Captura%20de%20pantalla%202023-08-21%20a%20la(s)%2021.53.30.png "Command Shell") 
