@@ -23,8 +23,7 @@ The following types can be serialized and deserialized using the Pickle module:*
 
 *To preparate this assignment I used the BasicMath program we worked at the beginning as a base, I improved it and I used the pickle tool to save a list in binary format with the results of the four basic math operations (sum, difference, product and quotient) (Figure 1).*  
 
- ![Pickle Module](https://github.com/lesping/lesping-IntroToProg-Python-Mod07/blob/main/docs/Captura%20de%20pantalla%202023-08-21%20a%20la(s)%2021.52.48.png "Pickle Module")
- 
+![Pickle Module](https://github.com/lesping/lesping-IntroToProg-Python-Mod07/blob/main/docs/Captura%20de%20pantalla%202023-08-21%20a%20la(s)%2021.52.48.png "Pickle Module") 
 Figure 1: Example of using the Pickle Module.
 
 ## II.	Structured Error Handling
@@ -57,19 +56,24 @@ Different kinds of errors result in different type of exceptions. Here are some 
 
 *In this exercise you use the try statement with the except clause where I specified the exception type ZeroDivisionError (Figure 2) and ValueError (Figure 3).*  
 
-  ![Zero Division Error](https://github.com/lesping/lesping-IntroToProg-Python-Mod07/blob/main/docs/Captura%20de%20pantalla%202023-08-21%20a%20la(s)%2021.53.17.png "Zero Division Error")
+![Zero Division Error](https://github.com/lesping/lesping-IntroToProg-Python-Mod07/blob/main/docs/Captura%20de%20pantalla%202023-08-21%20a%20la(s)%2021.53.17.png "Zero Division Error")
 Figure 2: Example of handling exceptions (ZeroDivisionError).
- 
+
+
+![Value Error](https://github.com/lesping/lesping-IntroToProg-Python-Mod07/blob/main/docs/Captura%20de%20pantalla%202023-08-21%20a%20la(s)%2021.53.30.png "Value Error")
 Figure 3: Example of handling exceptions (ValueError).
 
 *Then I validated the script in PyCharm and the Command Terminal. I ran the program without problems (Figure 4 and 5).*  
- 
+
+![PyCharm](https://github.com/lesping/lesping-IntroToProg-Python-Mod07/blob/main/docs/Captura%20de%20pantalla%202023-08-21%20a%20la(s)%2021.53.30.png "PyCharm") 
 Figure 4: My script running in PyCharm
- 
+
+![Command Shell](https://github.com/lesping/lesping-IntroToProg-Python-Mod07/blob/main/docs/Captura%20de%20pantalla%202023-08-21%20a%20la(s)%2021.53.30.png "Command Shell") 
 Figure 5: My script running from the command shell of my computer
 
 *Finally, I opened the plain text file BasicMathList.txt and it can be demonstrated that the code works by saving the information correctly (Figure 6).*  
- 
+
+![Data Saved](https://github.com/lesping/lesping-IntroToProg-Python-Mod07/blob/main/docs/Captura%20de%20pantalla%202023-08-21%20a%20la(s)%2021.53.30.png "Data Saved")  
 Figure 6: Data saved into .txt and .dat files
 
 ## Summary
