@@ -57,7 +57,7 @@ Different kinds of errors result in different type of exceptions. Here are some 
 
 *In this exercise you use the try statement with the except clause where I specified the exception type ZeroDivisionError (Figure 2) and ValueError (Figure 3).*  
 
-  ![Zero Division Error](https://github.com/lesping/lesping-IntroToProg-Python-Mod07/blob/main/docs/Captura%20de%20pantalla%202023-08-21%20a%20la(s)%2021.52.48.png "Zero Division Error")
+  ![Zero Division Error](https://github.com/lesping/lesping-IntroToProg-Python-Mod07/blob/main/docs/Captura%20de%20pantalla%202023-08-21%20a%20la(s)%2021.53.17.png "Zero Division Error")
 Figure 2: Example of handling exceptions (ZeroDivisionError).
  
 Figure 3: Example of handling exceptions (ValueError).
